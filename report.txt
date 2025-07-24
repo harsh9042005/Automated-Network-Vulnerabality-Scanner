@@ -1,0 +1,7 @@
+Scan Report for: 127.0.0.1
+
+Port 135 - Microsoft Windows RPC 
+Port 445 -  
+Port 3306 - MySQL 8.0.40
+
+--- End of Report ---
